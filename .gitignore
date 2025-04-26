@@ -1,0 +1,12 @@
+# Python  
+__pycache__/  
+*.py[cod]  
+.env  
+venv/  
+.idea/  
+.vscode/  
+models/*.bin  
+models/*.pt  
+models/*.pth  
+models/*.safetensors  
+*.log 
